@@ -1,0 +1,273 @@
+# Ahmad Hanan — Developer Portfolio Website
+
+## 1. Personal Information
+
+**Full Name:** Ahmad Hanan
+
+**Professional Title:** Shopify Developer & Frontend Developer
+
+**Experience:** 1–2 Years
+
+**Location:** Lahore, Pakistan
+
+**Availability:** Open to freelance opportunities, remote jobs, and collaborations.
+
+**Email:** ahmadhanan1713@gmail.com
+
+**GitHub:** https://github.com/Ahmadhanan1713
+
+**LinkedIn:** https://www.linkedin.com/in/ahmad-hanan-3368a8216
+
+---
+
+## 2. Professional Introduction
+
+I'm Ahmad Hanan, a Shopify Developer and Frontend Developer passionate about building modern, responsive, and high-performance web experiences.
+
+I specialize in Shopify theme customization, custom Liquid development, Shopify app integrations, API development, and creating user-friendly frontend interfaces.
+
+With 1–2 years of practical development experience, I enjoy solving technical challenges, optimizing e-commerce experiences, and transforming ideas into functional digital solutions.
+
+I'm currently expanding my frontend development expertise by learning React.js.
+
+---
+
+## 3. Technical Skills
+
+Organize skills into visually appealing categories.
+
+### Shopify Development
+- Shopify Liquid
+- Shopify Theme Customization
+- Custom Shopify Sections
+- Shopify Metafields & Metaobjects
+- Shopify Admin API
+- Shopify App Development
+- Shopify Store Optimization
+- Shopify Custom Integrations
+
+### Frontend Development
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- DOM Manipulation
+- React.js (Currently Learning)
+
+### API & Backend Integrations
+- REST APIs
+- JSON
+- API Integration
+- Cloudflare Workers
+- Third-party API Integration
+
+### Development Tools
+- Git
+- GitHub
+- VS Code
+- Cursor
+- Shopify CLI
+- Cloudflare
+
+---
+
+## 4. Featured Projects
+
+Create an attractive project showcase with large project cards, screenshots, descriptions, technologies, and links.
+
+### Project 01 — Shopify E-commerce Development
+
+**Description:**
+Developed and customized Shopify storefront experiences, including custom product sections, dynamic product information, collection layouts, responsive components, navigation, and advanced Liquid functionality.
+
+**Technologies:** Shopify Liquid, HTML, CSS, JavaScript.
+
+**Project Link:** To be added.
+
+### Project 02 — Icecat Product Data Integration
+
+**Description:**
+Integrated Icecat product data into Shopify product pages through API integration and Cloudflare Workers. Working on server-side metafield synchronization to improve product information availability and SEO.
+
+**Technologies:** Shopify, Liquid, JavaScript, Icecat API, Cloudflare Workers.
+
+**Project Link:** To be added.
+
+### Project 03 — Shopify Product Price Synchronization App
+
+**Description:**
+Developed a custom Shopify application to synchronize product variant prices using external supplier data. The application focuses on identifying recently updated supplier prices and updating the corresponding Shopify products.
+
+**Technologies:** Shopify Admin API, JavaScript, REST API.
+
+**Project Link:** To be added.
+
+### Project 04 — Currency Conversion Application
+
+**Description:**
+Working on a currency conversion solution using exchange-rate APIs to convert currencies such as AED and GBP, with a focus on accurate exchange rates and seamless integration.
+
+**Technologies:** JavaScript, REST APIs, XE API.
+
+**Project Link:** To be added.
+
+---
+
+## 5. Website Sections
+
+Build the portfolio with the following sections:
+
+### A. Navigation Bar
+- Personal logo/name: AH.
+- Home
+- About
+- Skills
+- Projects
+- Contact
+- Download CV button
+- Responsive mobile navigation.
+
+### B. Hero Section
+
+Create a visually impressive hero section.
+
+Main heading:
+
+"Hi, I'm Ahmad Hanan."
+
+"Shopify Developer & Frontend Developer"
+
+Supporting text:
+
+"I build modern Shopify experiences, powerful integrations, and responsive web interfaces that help businesses grow."
+
+Buttons:
+- View My Work
+- Let's Talk
+- Download CV
+
+Include:
+- Professional developer-style visual element.
+- Subtle animated background.
+- Floating technology labels.
+- Smooth entrance animations.
+- Attractive typography.
+
+### C. About Me
+
+Introduce me as a developer with 1–2 years of practical experience specializing in Shopify and frontend development.
+
+Highlight my passion for solving problems, building scalable e-commerce experiences, and continuously learning new technologies.
+
+### D. Skills Section
+
+Display technical skills using modern cards, icons, and subtle animations.
+
+Use separate categories for:
+- Shopify Development
+- Frontend Development
+- API & Integrations
+- Development Tools
+
+### E. Projects Section
+
+Display the four featured projects listed above.
+
+Each project card should contain:
+- Project title.
+- Short description.
+- Technologies used.
+- Project screenshot or visual preview.
+- View Project button.
+- GitHub button where applicable.
+
+Do not invent live project URLs or GitHub repositories.
+
+### F. Experience Section
+
+Show a clean experience timeline highlighting my 1–2 years of practical development experience.
+
+Focus on Shopify development, frontend customization, API integrations, and e-commerce solutions.
+
+Do not invent company names, employment dates, or job titles beyond the information provided.
+
+### G. Contact Section
+
+Heading:
+
+"Have a project in mind? Let's build something great together."
+
+Include:
+- Email: ahmadhanan1713@gmail.com
+- LinkedIn profile
+- GitHub profile
+- Contact form with name, email, subject, and message.
+
+Use a working form submission integration or clearly explain what configuration is needed. Do not create a fake submission flow.
+
+### H. Footer
+
+Include:
+- Ahmad Hanan branding.
+- Navigation links.
+- GitHub and LinkedIn.
+- Email.
+- Copyright notice.
+
+---
+
+## 6. Design Direction
+
+**Overall Style:** Premium, futuristic, minimal, professional developer portfolio.
+
+**Theme:** Dark mode.
+
+**Color Palette:**
+- Main background: #080B14
+- Secondary background: #0D1220
+- Card background: #111827
+- Primary accent: #2563EB
+- Secondary accent: #06B6D4
+- Main text: #FFFFFF
+- Muted text: #94A3B8
+
+**Visual Direction:**
+- Dark navy and black backgrounds.
+- Electric blue and cyan gradients.
+- Subtle glowing borders.
+- Premium glassmorphism effects used selectively.
+- Modern typography.
+- Clean spacing and consistent layouts.
+- Smooth hover transitions.
+- Subtle scroll-triggered animations.
+- Professional developer aesthetic.
+
+Avoid excessive animations, clutter, and generic template styling.
+
+---
+
+## 7. Technical Requirements
+
+Build the website using:
+
+- React.js
+- Vite
+- Modern JavaScript (ES6+)
+- Tailwind CSS or clean modular CSS
+- Lucide React icons
+- Framer Motion for animations, if useful.
+
+Requirements:
+1. Fully responsive across desktop, tablet, and mobile.
+2. Clean and reusable React components.
+3. Organized project structure.
+4. SEO-friendly metadata.
+5. Fast loading and optimized assets.
+6. Accessible navigation and buttons.
+7. Smooth scrolling between sections.
+8. Functional navigation and social links.
+9. Reusable project and skill components.
+10. Clean, maintainable code.
+
+---
+
